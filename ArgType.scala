@@ -1,0 +1,1 @@
+def function(input: Int*) = println(input.getClass)
