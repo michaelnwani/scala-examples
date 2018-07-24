@@ -1,0 +1,17 @@
+libraryDependencies
+set libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.5.14"
+console
+exit
+reload
+:quit
+exit
+console
+help console
+repl
+console
+projects
+:q
+q
+exit
+projects
+run
