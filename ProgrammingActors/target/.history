@@ -15,3 +15,9 @@ q
 exit
 projects
 run
+run-main
+runMain
+'run-main UseActor'
+run-main UseActor
+run-main "UseActor"
+:q

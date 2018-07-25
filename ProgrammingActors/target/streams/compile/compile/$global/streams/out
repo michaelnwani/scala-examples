@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/michaelnwani/github/scala-examples/ProgrammingActors/src/main/scala/CreateActors.scala:9:10: value shutdown is not a member of akka.actor.ActorSystem[0m
-[0m[[0m[31merror[0m] [0m[0m  system.shutdown()[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/michaelnwani/github/scala-examples/ProgrammingActors/FilesCounter.scala:18:18: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      filesCount = filesCount + count[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/michaelnwani/github/scala-examples/ProgrammingActors/FilesCounter.scala:22:19: not found: value system[0m
+[0m[[0m[31merror[0m] [0m[0m        val end = system.nanoTime[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

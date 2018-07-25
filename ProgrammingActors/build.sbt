@@ -1,8 +1,8 @@
 ThisBuild / scalaVersion := "2.12.6"
 ThisBuild / organization := "com.example"
 
-lazy val createActors = (project in file("."))
+lazy val programmingActors = (project in file("."))
   .settings(
-    name := "CreateActors",
+    name := "ProgrammingActors",
     libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.5.14",
   )

@@ -1,13 +1,41 @@
-[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/createactors_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/programmingactors_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Play.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/Play.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	HollywoodActor.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/HollywoodActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CountFiles$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/CountFiles$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CreateActors.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/CreateActors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileExplorer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/FileExplorer.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CreateActors$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/CreateActors$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReportCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/ReportCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CountFiles.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/CountFiles.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CreateActors$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/CreateActors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Play$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/Play$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UseActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/UseActor$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	HollywoodActor$$anonfun$receive$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/HollywoodActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FilesCounter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/FilesCounter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UseActor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/UseActor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReportCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/ReportCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CountFiles$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/CountFiles$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FilesCounter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/FilesCounter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileExplorer$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/FileExplorer$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UseActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelnwani/github/scala-examples/ProgrammingActors/target/scala-2.12/classes/UseActor.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
